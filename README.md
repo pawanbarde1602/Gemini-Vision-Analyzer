@@ -1,4 +1,4 @@
-🔍 Gemini Vision Analyzer
+                            🔍 Gemini Vision Analyzer
 Transform any image into actionable insights with the power of Google's Gemini AI
 
 Upload • Analyze • Discover
