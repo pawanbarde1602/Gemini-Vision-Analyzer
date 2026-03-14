@@ -345,10 +345,5 @@ else:
     </div>
     """, unsafe_allow_html=True)
 
-# Footer
-st.markdown("""
-<div class="footer">
-    <p style="font-size: 1.1rem; font-weight: 600; color: #667eea;">Developed with ❤️ by Shivam Kumar Yadav</p>
-    <p style="font-size: 0.9rem; color: #888; margin-top: 0.5rem;">🔍 Gemini Vision Analyzer | Powered by Google Gemini AI</p>
-</div>
-""", unsafe_allow_html=True)
+
+
